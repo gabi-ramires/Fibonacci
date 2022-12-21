@@ -1,3 +1,3 @@
 # Fibonacci
 
-Link: https://fibonacci-gabi.herokuapp.com/
+Link: http://fibonacci.epizy.com/
