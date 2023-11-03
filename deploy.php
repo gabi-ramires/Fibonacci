@@ -80,7 +80,7 @@ if ($hash == 'd1aa72f9cae9ff4a4377fc58a5ae2fe9') {
         echo "<span style='color: red;'>Falha ao implantar o repositório.</span><br>";
     }
 
-    echo '<br><br><a href="../">Voltar</a>';
+    echo '<br><br><a href="./">Voltar</a>';
 } else {
     echo "Página restrita!! Cai fora....";
 }
