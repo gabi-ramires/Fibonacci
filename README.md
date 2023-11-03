@@ -14,7 +14,8 @@ A aplicação Fibonacci permite que os usuários gerem a sequência de Fibonacci
 
 ## Exemplo 💡
 
-Se você inserir o número 10, a aplicação exibirá a seguinte sequência: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55
+Se você inserir o número 10, a aplicação exibirá a seguinte sequência: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55 e informará: "O número 10 pertence à sequência de Fibonacci."
+
 
 ## Contribuições 💪
 
